@@ -1,5 +1,5 @@
 # Softuni-Programming-Basics-with-CSharp
-Softuni - Programming Basics with C##
+Softuni - Programming Basics with C#
 
 Лекции:
 

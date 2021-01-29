@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\IfStatementsExercises\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

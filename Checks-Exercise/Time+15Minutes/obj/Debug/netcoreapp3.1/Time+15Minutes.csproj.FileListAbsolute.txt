@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.exe
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.deps.json
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.json
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.dev.json
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.dll
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfo.cs
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.dll
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.genruntimeconfig.cache

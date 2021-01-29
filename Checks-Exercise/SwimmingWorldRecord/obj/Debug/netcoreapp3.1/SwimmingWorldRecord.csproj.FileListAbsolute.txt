@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.exe
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.deps.json
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.runtimeconfig.json
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.runtimeconfig.dev.json
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.dll
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.AssemblyInfo.cs
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.dll
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.genruntimeconfig.cache
+C:\Users\georg\source\repos\IfStatementsExercises\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.csprojAssemblyReference.cache

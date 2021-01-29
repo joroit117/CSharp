@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\bin\Debug\netcoreapp3.1\Number100-200.exe
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\bin\Debug\netcoreapp3.1\Number100-200.deps.json
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\bin\Debug\netcoreapp3.1\Number100-200.runtimeconfig.json
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\bin\Debug\netcoreapp3.1\Number100-200.runtimeconfig.dev.json
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\bin\Debug\netcoreapp3.1\Number100-200.dll
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\bin\Debug\netcoreapp3.1\Number100-200.pdb
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\obj\Debug\netcoreapp3.1\Number100-200.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\obj\Debug\netcoreapp3.1\Number100-200.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\obj\Debug\netcoreapp3.1\Number100-200.AssemblyInfo.cs
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\obj\Debug\netcoreapp3.1\Number100-200.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\obj\Debug\netcoreapp3.1\Number100-200.dll
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\obj\Debug\netcoreapp3.1\Number100-200.pdb
+C:\Users\georg\source\repos\ConditionalStatements\Number100-200\obj\Debug\netcoreapp3.1\Number100-200.genruntimeconfig.cache

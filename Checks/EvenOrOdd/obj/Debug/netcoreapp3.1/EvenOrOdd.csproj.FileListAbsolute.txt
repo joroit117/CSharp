@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\georg\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\ExcellentResult.exe
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\ExcellentResult.deps.json
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\ExcellentResult.runtimeconfig.json
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\ExcellentResult.runtimeconfig.dev.json
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\ExcellentResult.dll
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\bin\Debug\netcoreapp3.1\ExcellentResult.pdb
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\ExcellentResult.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\ExcellentResult.AssemblyInfo.cs
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\ExcellentResult.dll
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\ExcellentResult.pdb
+C:\Users\georg\source\repos\ConditionalStatements\ExcellentResult\obj\Debug\netcoreapp3.1\ExcellentResult.genruntimeconfig.cache

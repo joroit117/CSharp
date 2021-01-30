@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.exe
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.deps.json
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.json
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.dev.json
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.dll
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfo.cs
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.dll
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+C:\Users\georg\source\repos\IfStatementsExercises\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.genruntimeconfig.cache

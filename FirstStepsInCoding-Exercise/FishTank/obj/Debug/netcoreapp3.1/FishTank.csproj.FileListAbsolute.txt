@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\bin\Debug\netcoreapp3.1\ConerterDollarsToBGN.exe
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\bin\Debug\netcoreapp3.1\ConerterDollarsToBGN.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\bin\Debug\netcoreapp3.1\ConerterDollarsToBGN.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\bin\Debug\netcoreapp3.1\ConerterDollarsToBGN.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\bin\Debug\netcoreapp3.1\ConerterDollarsToBGN.dll
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\bin\Debug\netcoreapp3.1\ConerterDollarsToBGN.pdb
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\obj\Debug\netcoreapp3.1\ConerterDollarsToBGN.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\obj\Debug\netcoreapp3.1\ConerterDollarsToBGN.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\obj\Debug\netcoreapp3.1\ConerterDollarsToBGN.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\obj\Debug\netcoreapp3.1\ConerterDollarsToBGN.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\obj\Debug\netcoreapp3.1\ConerterDollarsToBGN.dll
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\obj\Debug\netcoreapp3.1\ConerterDollarsToBGN.pdb
+C:\Users\georg\source\repos\Programming Basics C#\FirstStepsInCodingExercisesDemo\ConerterDollarsToBGN\obj\Debug\netcoreapp3.1\ConerterDollarsToBGN.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.exe
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.dll
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.pdb
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.dll
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.pdb
+C:\Users\georg\source\repos\Programming Basics C#\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.genruntimeconfig.cache

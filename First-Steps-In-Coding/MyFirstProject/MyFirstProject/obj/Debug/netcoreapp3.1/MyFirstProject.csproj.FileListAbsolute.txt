@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\georg\source\repos\Programming Basics C#\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache

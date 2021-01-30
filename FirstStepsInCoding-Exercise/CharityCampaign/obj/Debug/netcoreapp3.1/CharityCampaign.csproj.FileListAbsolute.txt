@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.exe
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.dll
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.dll
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.genruntimeconfig.cache

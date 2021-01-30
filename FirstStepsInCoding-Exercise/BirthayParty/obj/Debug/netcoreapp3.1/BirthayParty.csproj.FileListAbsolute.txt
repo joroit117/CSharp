@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\bin\Debug\netcoreapp3.1\BirthayParty.exe
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\bin\Debug\netcoreapp3.1\BirthayParty.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\bin\Debug\netcoreapp3.1\BirthayParty.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\bin\Debug\netcoreapp3.1\BirthayParty.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\bin\Debug\netcoreapp3.1\BirthayParty.dll
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\bin\Debug\netcoreapp3.1\BirthayParty.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\obj\Debug\netcoreapp3.1\BirthayParty.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\obj\Debug\netcoreapp3.1\BirthayParty.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\obj\Debug\netcoreapp3.1\BirthayParty.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\obj\Debug\netcoreapp3.1\BirthayParty.dll
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\obj\Debug\netcoreapp3.1\BirthayParty.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SecondLecture\FirstStepsInCodingExercisesDemo\BirthayParty\obj\Debug\netcoreapp3.1\BirthayParty.genruntimeconfig.cache

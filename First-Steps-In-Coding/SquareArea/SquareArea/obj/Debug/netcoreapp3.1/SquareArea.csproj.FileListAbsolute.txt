@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
+C:\Users\georg\source\repos\Programming Basics C#\SquareArea\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.genruntimeconfig.cache

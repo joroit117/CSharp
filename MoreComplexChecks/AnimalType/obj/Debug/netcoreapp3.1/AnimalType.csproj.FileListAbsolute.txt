@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.exe
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.deps.json
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.json
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.dll
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.pdb
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfo.cs
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.dll
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.pdb
+C:\Users\georg\source\repos\MoreComplexChecks\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.genruntimeconfig.cache

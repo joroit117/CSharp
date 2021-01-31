@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.exe
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.deps.json
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.runtimeconfig.json
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.dll
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.pdb
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.dll
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.pdb
+C:\Users\georg\source\repos\MoreComplexChecks\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.genruntimeconfig.cache

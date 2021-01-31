@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.exe
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.deps.json
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.runtimeconfig.json
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.dll
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\bin\Debug\netcoreapp3.1\TradeComissions.pdb
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.AssemblyInfo.cs
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.dll
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.pdb
+C:\Users\georg\source\repos\MoreComplexChecks\TradeComissions\obj\Debug\netcoreapp3.1\TradeComissions.genruntimeconfig.cache

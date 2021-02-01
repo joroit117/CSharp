@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\georg\source\repos\MoreComplexChecks-Exercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache

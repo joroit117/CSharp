@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.exe
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.deps.json
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.json
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.dev.json
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+C:\Users\georg\source\repos\ForLoop-Exercise\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.exe
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.deps.json
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.runtimeconfig.json
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.runtimeconfig.dev.json
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.dll
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.pdb
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.AssemblyInfo.cs
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.dll
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.pdb
+C:\Users\georg\source\repos\ForLoop-Exercise\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.genruntimeconfig.cache

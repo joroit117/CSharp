@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.exe
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.deps.json
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\georg\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.genruntimeconfig.cache

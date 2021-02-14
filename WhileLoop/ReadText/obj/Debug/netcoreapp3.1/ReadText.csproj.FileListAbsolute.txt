@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+C:\Users\georg\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+C:\Users\georg\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+C:\Users\georg\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+C:\Users\georg\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\georg\source\repos\ReadText\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\georg\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+C:\Users\georg\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\georg\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\georg\source\repos\ReadText\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

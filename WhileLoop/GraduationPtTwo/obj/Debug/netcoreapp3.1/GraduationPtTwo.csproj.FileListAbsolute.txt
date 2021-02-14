@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\bin\Debug\netcoreapp3.1\GraduationPtTwo.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\bin\Debug\netcoreapp3.1\GraduationPtTwo.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\bin\Debug\netcoreapp3.1\GraduationPtTwo.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\bin\Debug\netcoreapp3.1\GraduationPtTwo.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\bin\Debug\netcoreapp3.1\GraduationPtTwo.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\bin\Debug\netcoreapp3.1\GraduationPtTwo.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\obj\Debug\netcoreapp3.1\GraduationPtTwo.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\obj\Debug\netcoreapp3.1\GraduationPtTwo.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\obj\Debug\netcoreapp3.1\GraduationPtTwo.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\obj\Debug\netcoreapp3.1\GraduationPtTwo.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\obj\Debug\netcoreapp3.1\GraduationPtTwo.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\obj\Debug\netcoreapp3.1\GraduationPtTwo.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\9.While-Loop\GraduationPtTwo\obj\Debug\netcoreapp3.1\GraduationPtTwo.genruntimeconfig.cache

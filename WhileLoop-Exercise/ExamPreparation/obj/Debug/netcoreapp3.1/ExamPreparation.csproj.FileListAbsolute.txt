@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.exe
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.deps.json
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.json
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfo.cs
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\georg\source\repos\Programming Basics C#\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.genruntimeconfig.cache

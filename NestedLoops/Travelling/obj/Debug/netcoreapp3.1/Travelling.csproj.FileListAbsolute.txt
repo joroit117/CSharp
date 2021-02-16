@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.genruntimeconfig.cache

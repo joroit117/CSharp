@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

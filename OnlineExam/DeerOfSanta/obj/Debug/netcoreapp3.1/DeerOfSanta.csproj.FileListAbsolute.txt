@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\bin\Debug\netcoreapp3.1\DeerOfSanta.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\bin\Debug\netcoreapp3.1\DeerOfSanta.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\bin\Debug\netcoreapp3.1\DeerOfSanta.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\bin\Debug\netcoreapp3.1\DeerOfSanta.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\bin\Debug\netcoreapp3.1\DeerOfSanta.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\bin\Debug\netcoreapp3.1\DeerOfSanta.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\obj\Debug\netcoreapp3.1\DeerOfSanta.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\obj\Debug\netcoreapp3.1\DeerOfSanta.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\obj\Debug\netcoreapp3.1\DeerOfSanta.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\obj\Debug\netcoreapp3.1\DeerOfSanta.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\obj\Debug\netcoreapp3.1\DeerOfSanta.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\DeerOfSanta\obj\Debug\netcoreapp3.1\DeerOfSanta.genruntimeconfig.cache

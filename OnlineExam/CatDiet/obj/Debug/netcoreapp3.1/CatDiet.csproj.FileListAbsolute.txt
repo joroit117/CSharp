@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\bin\Debug\netcoreapp3.1\CatDiet.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\bin\Debug\netcoreapp3.1\CatDiet.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\bin\Debug\netcoreapp3.1\CatDiet.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\bin\Debug\netcoreapp3.1\CatDiet.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\bin\Debug\netcoreapp3.1\CatDiet.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\bin\Debug\netcoreapp3.1\CatDiet.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\obj\Debug\netcoreapp3.1\CatDiet.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\obj\Debug\netcoreapp3.1\CatDiet.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\obj\Debug\netcoreapp3.1\CatDiet.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\obj\Debug\netcoreapp3.1\CatDiet.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\obj\Debug\netcoreapp3.1\CatDiet.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\obj\Debug\netcoreapp3.1\CatDiet.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\CatDiet\obj\Debug\netcoreapp3.1\CatDiet.genruntimeconfig.cache

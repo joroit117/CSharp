@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.genruntimeconfig.cache

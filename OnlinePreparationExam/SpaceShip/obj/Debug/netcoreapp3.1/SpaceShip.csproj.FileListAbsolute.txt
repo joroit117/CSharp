@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\bin\Debug\netcoreapp3.1\SpaceShip.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\SpaceShip\obj\Debug\netcoreapp3.1\SpaceShip.genruntimeconfig.cache

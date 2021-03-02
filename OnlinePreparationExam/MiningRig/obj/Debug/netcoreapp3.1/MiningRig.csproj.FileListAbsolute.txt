@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\bin\Debug\netcoreapp3.1\MiningRig.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\MiningRig\obj\Debug\netcoreapp3.1\MiningRig.genruntimeconfig.cache

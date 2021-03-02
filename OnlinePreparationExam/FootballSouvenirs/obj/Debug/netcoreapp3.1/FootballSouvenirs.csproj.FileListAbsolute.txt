@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\bin\Debug\netcoreapp3.1\FootballSouvenirs.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\bin\Debug\netcoreapp3.1\FootballSouvenirs.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\bin\Debug\netcoreapp3.1\FootballSouvenirs.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\bin\Debug\netcoreapp3.1\FootballSouvenirs.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\bin\Debug\netcoreapp3.1\FootballSouvenirs.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\bin\Debug\netcoreapp3.1\FootballSouvenirs.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\obj\Debug\netcoreapp3.1\FootballSouvenirs.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\obj\Debug\netcoreapp3.1\FootballSouvenirs.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\obj\Debug\netcoreapp3.1\FootballSouvenirs.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\obj\Debug\netcoreapp3.1\FootballSouvenirs.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\obj\Debug\netcoreapp3.1\FootballSouvenirs.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\obj\Debug\netcoreapp3.1\FootballSouvenirs.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\FootballSouvenirs\obj\Debug\netcoreapp3.1\FootballSouvenirs.genruntimeconfig.cache

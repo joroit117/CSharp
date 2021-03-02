@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\bin\Debug\netcoreapp3.1\GiftsFromSanta.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\bin\Debug\netcoreapp3.1\GiftsFromSanta.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\bin\Debug\netcoreapp3.1\GiftsFromSanta.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\bin\Debug\netcoreapp3.1\GiftsFromSanta.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\bin\Debug\netcoreapp3.1\GiftsFromSanta.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\bin\Debug\netcoreapp3.1\GiftsFromSanta.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\obj\Debug\netcoreapp3.1\GiftsFromSanta.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\obj\Debug\netcoreapp3.1\GiftsFromSanta.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\obj\Debug\netcoreapp3.1\GiftsFromSanta.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\obj\Debug\netcoreapp3.1\GiftsFromSanta.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\obj\Debug\netcoreapp3.1\GiftsFromSanta.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\obj\Debug\netcoreapp3.1\GiftsFromSanta.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GiftsFromSanta\obj\Debug\netcoreapp3.1\GiftsFromSanta.genruntimeconfig.cache

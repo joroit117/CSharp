@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlinePreparationExam\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.genruntimeconfig.cache

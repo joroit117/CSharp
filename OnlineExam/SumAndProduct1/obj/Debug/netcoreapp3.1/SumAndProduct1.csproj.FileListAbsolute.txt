@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\bin\Debug\netcoreapp3.1\SumAndProduct1.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\bin\Debug\netcoreapp3.1\SumAndProduct1.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\bin\Debug\netcoreapp3.1\SumAndProduct1.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\bin\Debug\netcoreapp3.1\SumAndProduct1.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\bin\Debug\netcoreapp3.1\SumAndProduct1.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\bin\Debug\netcoreapp3.1\SumAndProduct1.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\obj\Debug\netcoreapp3.1\SumAndProduct1.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\obj\Debug\netcoreapp3.1\SumAndProduct1.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\obj\Debug\netcoreapp3.1\SumAndProduct1.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\obj\Debug\netcoreapp3.1\SumAndProduct1.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\obj\Debug\netcoreapp3.1\SumAndProduct1.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\OnlineExam\SumAndProduct1\obj\Debug\netcoreapp3.1\SumAndProduct1.genruntimeconfig.cache

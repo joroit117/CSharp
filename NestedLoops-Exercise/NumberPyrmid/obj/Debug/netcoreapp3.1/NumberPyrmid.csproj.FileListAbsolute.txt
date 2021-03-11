@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\obj\Debug\netcoreapp3.1\NumberPyrmid.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\obj\Debug\netcoreapp3.1\NumberPyrmid.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\obj\Debug\netcoreapp3.1\NumberPyrmid.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\obj\Debug\netcoreapp3.1\NumberPyrmid.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\bin\Debug\netcoreapp3.1\NumberPyrmid.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\bin\Debug\netcoreapp3.1\NumberPyrmid.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\bin\Debug\netcoreapp3.1\NumberPyrmid.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\bin\Debug\netcoreapp3.1\NumberPyrmid.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\bin\Debug\netcoreapp3.1\NumberPyrmid.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\bin\Debug\netcoreapp3.1\NumberPyrmid.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\obj\Debug\netcoreapp3.1\NumberPyrmid.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\obj\Debug\netcoreapp3.1\NumberPyrmid.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\NumberPyrmid\obj\Debug\netcoreapp3.1\NumberPyrmid.genruntimeconfig.cache

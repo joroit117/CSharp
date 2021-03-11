@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.exe
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.deps.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+C:\Users\georg\source\repos\Softuni - Programming Basics with C#\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.genruntimeconfig.cache
